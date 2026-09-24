@@ -17,16 +17,17 @@ L'outil quantifie financièrement l'impact de l'inoccupation et projette les gai
 *   Simulateur interactif pour visualiser le gain potentiel par rapport au marché local.
 *   Bouton d'action directe pour activer une "Offre Flash" sur les créneaux vides.
 
-*(N'oublie pas d'uploader ton Experience Map et de changer le nom du fichier ci-dessous)*
-![Experience Map de Manon](experience_map.png)
+
+![Experience Map de Manon](Experience_Map.png)
 
 # Stack Technique du MVP
 *   **Data Warehouse :** Stockage de l'historique des réservations et des prix du marché local.
 *   **Power BI :** Moteur de calcul et de visualisation intégré via API dans l'espace propriétaire.
 *   **API Salesforce :** Gestion du profil de l'hôte (Manon).
 
-*(N'oublie pas d'uploader l'image de ta maquette et de changer le nom du fichier ci-dessous)*
-![Maquette du MVP Power BI](maquette_dashboard.png)
+![Maquette du MVP Power BI](MVP_Manon.png)
+
+![SImulateur de manque à gagner Power BI](Simulateur_Manque_à_Gagner.png)
 
 # KPIs et Mesure du succès
 Pour s'assurer que la donnée crée de la valeur, la performance du produit s'évalue sur :
